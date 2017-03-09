@@ -1,0 +1,19 @@
+*{
+	outline: 1px solid red;
+}
+.name{
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+.form-horizontal{
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+.control-label{
+	padding-top: 0px; 
+    margin-bottom: 0;
+    text-align: center !important;
+}
+.inputBajo{
+	margin-top: 7px;
+}
