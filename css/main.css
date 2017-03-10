@@ -1,5 +1,6 @@
 *{
 	outline: 1px solid red;
+	font-family: 'Comfortaa', sans-serif;
 }
 .name{
 	margin-top: 150px;
@@ -16,4 +17,7 @@
 }
 .inputBajo{
 	margin-top: 7px;
+}
+a.inicio{
+	margin-right: 15px;
 }
